@@ -14,6 +14,7 @@ int main(void)
 	first = 0;
 	second = 1;
 	count = 0;
+	
 	while (count < 49)
 	{
 		sum = first + second;
